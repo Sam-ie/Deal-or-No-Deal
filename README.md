@@ -1,4 +1,5 @@
 # Deal or No Deal · 策略提示器（单文件版）
+<img width="1900" height="869" alt="image" src="https://github.com/user-attachments/assets/896cb4ff-eaf0-48e2-82e5-df9d34585d8f" />
 
 [🇨🇳 中文版](#中文版) · [🇬🇧 English](#english)
 
